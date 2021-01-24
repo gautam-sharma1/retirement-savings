@@ -26,7 +26,7 @@ python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy
 ```
 
 ## Result
-<img src="images/img2.png" width="500" height="300" />
+<img src="images/img2.png" width="1000" height="600" />
 
 :green_circle: Percepetron <br/>
 :green_circle: Logistic Regression <br/>
