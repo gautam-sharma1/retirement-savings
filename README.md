@@ -15,7 +15,7 @@
 ## Background
 
 <img src="images/img1.png" width="600" height="500" />
-<img src="images/img2.png" width="600" height="500" />
+
 
 ## Installation
 > This project uses Scipy as it's primary library to solve Machine Learning tasks. 
@@ -26,7 +26,7 @@ python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy
 ```
 
 ## Result
-
+<img src="images/img2.png" width="500" height="300" />
 
 :green_circle: Percepetron <br/>
 :green_circle: Logistic Regression <br/>
